@@ -1,9 +1,7 @@
 public static void main(){
  System.out.println("111111111111111");
 }
-
 hahahahahahahahahah
-
-
+込込込込込込亜込込
 ahahahahahahahaha
 hahahahahahah
